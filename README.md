@@ -6,7 +6,7 @@ Les NFT(non fungible token), sont des token sur la technologie blockchain permet
 
 En lien avec le défi principal de la nuit c'est à dire celui en rapport avec les Secours en Mer nous avons décider de mettre en place un **système de donation** via l'achat de NFT. 
 
-Les dons se font par palier de : 5(pas de NFT), 10, 25, 50 et 100 dollars.
+Les dons se font par palier de : 5 dollars(pas de NFT), 10 dollars, 25 dollars, 50 dollars et 10 NFT exclusif disponibles en enchère.
 
 ## Mise en place
 
@@ -20,6 +20,7 @@ Avant toute chose nous avons du créer un wallet **Metamask** et le lié a la bl
 
 Ensuite avec *rarepress* nous avons écrit notre script:
 
+Ce script permet d'ajouter les NFT sur rarible via la blockchain Etherum et de créer les images IPFS.
 Exemple du code utilisé pour mettre en ligne notre NFT "Bouée":
 ```
 <html>
@@ -116,5 +117,5 @@ Après avoir lancé notre script sur notre serveur http en local et y avoir lié
 [![Don niveau Barre](https://i.imgur.com/y5nmBhF.png)](https://rarible.com/token/0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8:79638617253701427051349581616089869356582801432216749567384964294491719010563)
 
 
-
+[![Don niveau Barre](https://i.imgur.com/3qI070F.png)](https://rarible.com/token/0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8:79638617253701427051349581616089869356582801432216749601462103933666517856309)
 
