@@ -10,7 +10,7 @@ Les dons se font par palier de : 5(pas de NFT), 10, 25, 50 et 100 dollars.
 
 ## Mise en place
 
-Après avoir réfléchi à la manière de procéder <insérer github de marcus> s'est chargé de la création du design de nos NFT.
+Après avoir réfléchi à la manière de procéder @https://github.com/marcusaasjensen s'est chargé de la création du design de nos NFT.
 Nous nous sommes renseignés sur la manière de les **minter** sur la blockchain.
 Avec *rarepress* un système d'opération sur les NFT nous avons développer un script en javascript pour mettre nos récompenses de donation en ligne sur **Rarible**(un market place pour les NFT) grâce à la blockchain Etherum.
 
@@ -113,6 +113,7 @@ Après avoir lancé notre script sur notre serveur http en local et y avoir lié
 [![Don niveau Ancre](https://i.imgur.com/XkPzQJM.png)](https://rarible.com/token/0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8:79638617253701427051349581616089869356582801432216749563635906471392372094723)
 [![Don niveau Bouée](https://i.imgur.com/UMxRHJG.png)](https://rarible.com/token/0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8:79638617253701427051349581616089869356582801432216749563949483389126004738200)
 
+[![Don niveau Barre](https://i.imgur.com/y5nmBhF.png)](https://rarible.com/token/0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8:79638617253701427051349581616089869356582801432216749567384964294491719010563)
 
 
 
